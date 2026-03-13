@@ -4,12 +4,6 @@ A simple Python CLI tool that searches research-related pages on Google Scholar 
 
 Users can enter any query (for example: *quantum computing*, *machine learning*, etc.), and the script returns relevant scholar pages with their titles and URLs.
 
-
-
-![GitHub repo size](https://img.shields.io/github/repo-size/MadhuTiwari-345/scholar-search-cli)
-![GitHub stars](https://img.shields.io/github/stars/MadhuTiwari-345/scholar-search-cli)
-
-
 ---
 
 ## 🚀 Features
