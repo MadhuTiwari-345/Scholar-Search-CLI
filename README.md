@@ -1,9 +1,10 @@
 # 🔎 Scholar Search CLI (Python)
 
-![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
-![CLI](https://img.shields.io/badge/Interface-CLI-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Status](https://img.shields.io/badge/Status-Active-success)
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
+![CLI](https://img.shields.io/badge/Interface-CLI-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
 
 A lightweight **Python CLI tool** that searches research-related pages from **Google Scholar** using the Exa API.
 
