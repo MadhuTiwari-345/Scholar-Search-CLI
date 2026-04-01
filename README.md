@@ -1,4 +1,4 @@
-# 🔎 Scholar Search CLI Agent
+# 🔎 Scholar Search CLI Agent (made by using python)
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
 ![CLI](https://img.shields.io/badge/Interface-CLI-green?style=for-the-badge)
